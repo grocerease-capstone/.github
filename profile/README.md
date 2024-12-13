@@ -3,24 +3,6 @@ GrocerEase is an application designed to effortlessly assist in tracking grocery
 
 This app was created to complete the Product-Based Bangkit Capstone project with Team ID C242-PS423.
 
-
-## Technologies Used
-* Programming Language
-    * Kotlin   
-    * Javascript
-    * Python
-* Service
-    * Cloud Run 
-* Database
-    * MySQL database (Using VM Compute Engine)
-* Storage
-    * Cloud Storage
-    * Artifacts Registry 
-* ML Library
-    * TensorFlow
-    * Ultralytics
-    * Roboflow
-
 ## Team Member
 | Bangkit ID | Name | Learning Path | Github Profile|
 | -------- | ------- |------- |------- |
