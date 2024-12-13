@@ -1,7 +1,7 @@
 # GrocerEase
-GrocerEase is an application designed to effortlessly assist in tracking grocery expenses. Its intuitive features allow users to scan their grocery receipts, and it instantly generates a detailed report.
+GrocerEase is an application designed to improve the experience of planning and tracking grocery items & expenses. Its intuitive features allow users to scan their grocery receipts, and instantly generate a detailed report!
 
-This app was created to complete the Product-Based Bangkit Capstone project with Team ID C242-PS423.
+This app was created to complete the Product-Based Bangkit Capstone Project with Team ID C242-PS423.
 
 ## Team Member
 | Bangkit ID | Name | Learning Path | Github Profile|
