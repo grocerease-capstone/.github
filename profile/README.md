@@ -16,5 +16,5 @@ This app was created to complete the Product-Based Bangkit Capstone Project with
 
 ---
 
-Thank you for visiting the GrocerEase repository! Don't forget to try out the app at [link download]().
+Thank you for visiting the GrocerEase repository! Don't forget to try out the app at this link : [GrocerEase-v7a](https://drive.google.com/file/d/1tqETsLyR4X2yoN6Ze1O4iksFSF937G6U/view?usp=drive_link) or [GrocerEase-v8a](https://drive.google.com/file/d/1I8AozvJ0amQZam9ulbcq51OVpvGiMUSC/view?usp=drive_link).
 Feel free to contact us if you have any suggestions or questions.
